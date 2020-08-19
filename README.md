@@ -1,2 +1,2 @@
 # JPA-Backend
-A simple RESTful API created wugin Java Persistence API for CS5200
+A simple RESTful service created using Java Persistence API in Database Management Systems (CS5200) course.
